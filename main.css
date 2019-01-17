@@ -1,0 +1,44 @@
+
+
+#wrapp {
+	width: 1000px;
+	min-height: 700px;
+	margin: 0 auto;
+}
+header {
+	width: 100%;
+	height: 60px;
+}
+header h1 {
+	text-align: center;
+	line-height: 60px;
+	font-size: 3en;
+}
+section {
+	width: 700px;
+	height: 640px;
+	float: left;
+}
+section img {
+	width: 200px;
+	height: 130px;
+	margin: 10px;
+	border: 4px solid green;
+}
+aside {
+	width: 292px;
+	height: 640px;
+	background: yellow;
+	float: left;
+	border: 4px solid black;
+}
+#holder {
+	width: 292px;
+	height: 200px;
+	background: #C4C8EF;
+}
+#info {
+	width: 260px;
+	height: 400px;
+	padding: 20px;
+}
